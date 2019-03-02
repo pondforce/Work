@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 5200c6f24e4bbae4897f7ffc01776b2b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: DJI_0507
+    100002: DJI_0509
+    100004: DJI_0511
+    100006: DJI_0513
+    100008: DJI_0515
+    100010: DJI_0518
+    100012: DJI_0520
+    100014: DJI_0522
+    100016: DJI_0524
+    100018: DJI_0526
+    100020: DJI_0529
+    100022: DJI_0531
+    100024: DJI_0533
+    100026: DJI_0535
+    100028: DJI_0537
+    100030: DJI_0540
+    100032: DJI_0542
+    100034: DJI_0544
+    100036: DJI_0546
+    100038: DJI_0548
+    100040: DJI_0551
+    100042: DJI_0553
+    100044: DJI_0555
+    100046: DJI_0557
+    100048: DJI_0559
+    100050: DJI_0562
+    100052: DJI_0564
+    100054: DJI_0566
+    100056: DJI_0568
+    100058: DJI_0570
+    100060: //RootNode
+    100062: Mahat_1
+    100064: Model
+    400000: DJI_0507
+    400002: DJI_0509
+    400004: DJI_0511
+    400006: DJI_0513
+    400008: DJI_0515
+    400010: DJI_0518
+    400012: DJI_0520
+    400014: DJI_0522
+    400016: DJI_0524
+    400018: DJI_0526
+    400020: DJI_0529
+    400022: DJI_0531
+    400024: DJI_0533
+    400026: DJI_0535
+    400028: DJI_0537
+    400030: DJI_0540
+    400032: DJI_0542
+    400034: DJI_0544
+    400036: DJI_0546
+    400038: DJI_0548
+    400040: DJI_0551
+    400042: DJI_0553
+    400044: DJI_0555
+    400046: DJI_0557
+    400048: DJI_0559
+    400050: DJI_0562
+    400052: DJI_0564
+    400054: DJI_0566
+    400056: DJI_0568
+    400058: DJI_0570
+    400060: //RootNode
+    400062: Mahat_1
+    400064: Model
+    2000000: DJI_0507
+    2000002: DJI_0509
+    2000004: DJI_0511
+    2000006: DJI_0513
+    2000008: DJI_0515
+    2000010: DJI_0518
+    2000012: DJI_0520
+    2000014: DJI_0522
+    2000016: DJI_0524
+    2000018: DJI_0526
+    2000020: DJI_0529
+    2000022: DJI_0531
+    2000024: DJI_0533
+    2000026: DJI_0535
+    2000028: DJI_0537
+    2000030: DJI_0540
+    2000032: DJI_0542
+    2000034: DJI_0544
+    2000036: DJI_0546
+    2000038: DJI_0548
+    2000040: DJI_0551
+    2000042: DJI_0553
+    2000044: DJI_0555
+    2000046: DJI_0557
+    2000048: DJI_0559
+    2000050: DJI_0562
+    2000052: DJI_0564
+    2000054: DJI_0566
+    2000056: DJI_0568
+    2000058: DJI_0570
+    2000060: Mahat_1
+    2100000: material9
+    2100002: material3
+    2100004: material7
+    2100006: material8
+    2100008: material1
+    2100010: material2
+    2100012: material5
+    2100014: material4
+    2100016: material6
+    2100018: material0
+    2300000: Model
+    3300000: Model
+    4300000: Model
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
